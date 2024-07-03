@@ -44,12 +44,13 @@ Once the app is running, open your web browser and navigate to `http://localhost
 - `models/`: Directory containing trained machine learning models (if applicable).
 - `requirements.txt`: List of required dependencies for running the app.
 
-## Screenshots
 
-Include screenshots of the app interface here to give users a visual preview of the application.
 
-## Contributing
 
+Uploading cancerpred_app · Streamlit - Personal - Microsoft​ Edge 2024-07-01 11-52-16.mp4…
+
+ng
+# contributions
 Contributions are welcome! If you have any improvements or new features to add, please open a pull request.
 
 ## License
